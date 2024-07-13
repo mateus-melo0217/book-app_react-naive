@@ -1,2 +1,3 @@
-# react-naive-book-examples
-Examples for React Naive Book
+# react-naive-book-app
+
+App for React Naive Book
